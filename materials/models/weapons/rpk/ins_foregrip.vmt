@@ -1,0 +1,22 @@
+"VertexLitGeneric"
+{
+
+	"$color"				"[0.62 0.63 0.65]"
+	"$basetexture"			"models\weapons\upgrades\ins_fg_d"
+	"$bumpmap"				"models\weapons\upgrades\ins_fg_n"
+
+
+	$normalmapalphaenvmapmask 		"1"
+
+	$phongtint						"[0.30 0.40 0.60]"
+
+	//$envmap 						env_cubemap
+	$envmaptint 					"[.085 .085 .085  ]"
+	$phongexponent				 	"40"
+	$phong 							"1"
+	$PhongAlbedoTint 				"1"	
+	
+	$phongboost 					"0.6"
+	"$phongfresnelranges" "[1 2 3]"
+	
+}

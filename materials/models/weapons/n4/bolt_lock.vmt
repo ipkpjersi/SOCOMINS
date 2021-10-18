@@ -1,0 +1,40 @@
+// Valve Material Setup 2014. Brought you by Studio Apocalyptic.
+// Written by Yogensia and Rafael De Jongh
+// More information: http://source.gamebanana.com/tuts/11498
+// Parameter Cheat Sheet: http://bit.ly/1ibGMCe (Google Drive Spreadsheet)
+
+Vertexlitgeneric
+{
+
+	// MAIN SETTINGS
+	"$basetexture" "models\weapons\n4\frame"
+	"$bumpmap"     "models\weapons\n4\frame_norm"
+
+	"$nocull" "1"
+    "$color" 			 "[ 1 1 1 ] "
+    "$color2"            "{100 110 110}"
+	"$halflambert" 			"1"
+	
+	"$normalmapalphaenvmapmask" 	"1"
+	"$normalmapalphaphongmask"    	"1"
+	
+	
+
+	"$phong"  				"1"
+	"$phongexponent" 		"25"
+	
+	"$phongboost" 			"1.2"
+	"$phongfresnelranges"	"[0.1 0.4 .8]"
+	"$phongtint"            "[1 1 1.2]"
+	"$phongalbedotint" 		"1"	
+	
+ 	"$envmap" 					 	"env_cubemap"
+    "$envmaptint"				 	"[0.005 0.005 0.005]"  
+	
+	
+	$rimlight               1
+	$rimlightexponent       250
+	$rimlightboost          .02	
+	$rimmask 				1
+
+}

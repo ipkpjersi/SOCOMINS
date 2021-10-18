@@ -1,0 +1,17 @@
+"VertexLitGeneric"
+{
+	"$basetexture"			"models\weapons\Nova\d_nova_metal.vtf"
+	"$bumpmap"			"models\weapons\Nova\n_nova_metal.vtf"
+     "$color"						"[1.2 1.2 1.2]"
+	 "$selfillum"       "1"
+	"$phong"  			"1"
+	"$phongexponent" 		"15"
+	"$phongboost" 			"0.87"
+	"$phongfresnelranges" 		"[1.5 3.5 5]"
+	"$phongtint" 			"[0.6 0.8 1]"
+	"$phongalbedotint" 		"1"	
+    
+	"$envmap" 			"env_cubemap"
+	"$normalmapalphaenvmapmask" 	"1"
+	"$envmaptint"			"[0.04 0.04 0.04]"
+}

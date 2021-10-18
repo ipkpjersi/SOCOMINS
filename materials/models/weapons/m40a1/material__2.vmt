@@ -1,0 +1,15 @@
+"VertexlitGeneric"
+{
+	"$basetexture" 		"models\weapons\m40a1\blacktape_d"
+	"$bumpmap" 			"models\weapons\m40a1\blacktape_n"
+	"$color"			"[0.6 0.6 0.6]"
+
+	"$phong"  				"1"
+	"$phongexponent" 		"20"
+	"$phongboost" 			"0.6"
+	"$phongfresnelranges" 	"[.5 1 1.5]"
+	"$phongtint" 			"[0.4 0.6 0.8]"
+	"$phongalbedotint" 		"1"	
+	"$halflambert" 			"1"
+
+}

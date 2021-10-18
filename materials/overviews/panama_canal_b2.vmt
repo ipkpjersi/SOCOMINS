@@ -1,0 +1,8 @@
+UnlitGeneric
+{
+	$translucent 1
+	$basetexture "overviews/panama_canal_b2"
+	$vertexalpha 1
+	$no_fullbright 1
+	$ignorez 1
+}

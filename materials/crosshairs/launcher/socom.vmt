@@ -1,0 +1,35 @@
+"UnlitGeneric"
+{
+	"$basetexture"	"crosshairs/launcher/socom"
+	"$translucent"	"1"
+
+	"$reticleDiagonal"			"1"
+	"$reticleScaleFrac"			"1.0"
+	"$reticleExpandFrac"		"0.5"
+
+	"$reticleCenter"			"121 121 270 270"
+	"$reticleTop"				"196 1 60 60"
+	"$reticleBottom"			"256 61 60 60"
+	"$reticleLeft"				"196 61 60 60"
+	"$reticleRight"				"256 1 60 60"
+
+	"$reticleObstruct"			"40 40 20 20"
+
+	"$reticleEmptyCenter"		"121 121 270 270"
+	"$reticleEmptyTop"			"196 391 60 60"
+	"$reticleEmptyBottom"		"256 451 60 60"
+	"$reticleEmptyLeft"			"196 451 60 60"
+	"$reticleEmptyRight"		"256 391 60 60"
+
+	"$reticleEnemyCenter"		"121 121 270 270"
+	"$reticleEnemyTop"			"391 196 60 60"
+	"$reticleEnemyBottom"		"451 256 60 60"
+	"$reticleEnemyLeft"			"391 256 60 60"
+	"$reticleEnemyRight"		"451 196 60 60"
+
+	"$reticleTeammateCenter"	"121 121 270 270"
+	"$reticleTeammateTop"		"1 196 60 60"
+	"$reticleTeammateBottom"	"61 256 60 60"
+	"$reticleTeammateLeft"		"1 256 60 60"
+	"$reticleTeammateRight"		"61 196 60 60"
+}

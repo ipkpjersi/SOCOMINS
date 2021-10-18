@@ -1,0 +1,11 @@
+"UnlitGeneric"
+{
+	"$basetexture" "models\weapons\g36\sightdot"
+	"$surfaceprop" "Default"
+	"$selfillum" 1
+	"$model" 1
+        "$additive" 1
+
+}
+
+        

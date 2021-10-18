@@ -1,0 +1,27 @@
+"vertexlitgeneric"
+{
+	"$baseTexture"                         "models\weapons\CODBO\w_aug_c"
+                  "$bumpmap"                            "models\weapons\CODBO\w_aug_n"
+	//"$normalmapalphaphongmask" 	1
+
+	"$nocull" 						1
+	"$phong" 						1
+	"$phongboost" 					0.5
+	"$phongtint"					"[0.8 0.7 0.9]"
+	"$phongexponenttexture"  		"models\weapons\CODBO\w_aug_s"
+	"$phongalbedotint" 				1
+	//$selfillum 					1
+	//"$phongexponent"  				"50"
+	//"$phongfresnelranges" 		                  "[2 4 6]"
+
+
+	"$envmap" 						"env_cubemap"
+	"$envmapfresnel" 				1
+	"$envmaptint" 					"[.002 .002 .003]"
+	"$normalmapalphaenvmapmask" 	1
+	
+	
+	"$rimlight"						1
+	"$rimlightexponent"				65
+	"$rimlightboost" 					0.05
+}

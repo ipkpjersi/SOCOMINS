@@ -1,0 +1,19 @@
+"VertexLitGeneric"
+{
+	"$basetexture"			"models\weapons\svd\bullets_d"
+	"$bumpmap"	 		"models\weapons\svd\bullets_n"
+	
+	"$color"			"[1 1 1]"
+
+	$normalmapalphaenvmapmask 	"1"
+
+	$phongtint 			"[.6 .8 1]"
+	$envmap 			env_cubemap
+	$envmaptint 			"[.0125 .0125 .0125]"
+	$phong 				"1"
+	
+	
+	$phongexponent 			"25"
+	$phongboost 			"1"
+	$phongfresnelranges		"[.2 1 3]"
+}

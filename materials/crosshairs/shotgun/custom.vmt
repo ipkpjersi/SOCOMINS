@@ -1,0 +1,35 @@
+"UnlitGeneric"
+{
+	"$basetexture"	"crosshairs/primary"
+	"$translucent"	"1"
+
+	"$reticleDiagonal"			"0"
+	"$reticleScaleFrac"			"1.0"
+	"$reticleExpandFrac"		"0.5"
+
+	"$reticleCenter"			"121 121 270 270"
+	"$reticleTop"				"251 1 10 60"
+	"$reticleBottom"			"251 61 10 60"
+	"$reticleLeft"				"196 56 60 10"
+	"$reticleRight"				"256 56 60 10"
+
+	"$reticleObstruct"			"40 40 20 20"
+
+	"$reticleEmptyCenter"		"121 121 270 270"
+	"$reticleEmptyTop"			"251 391 10 60"
+	"$reticleEmptyBottom"		"251 451 10 60"
+	"$reticleEmptyLeft"			"196 446 60 10"
+	"$reticleEmptyRight"		"256 446 60 10"
+
+	"$reticleEnemyCenter"		"121 121 270 270"
+	"$reticleEnemyTop"			"446 196 10 60"
+	"$reticleEnemyBottom"		"446 256 10 60"
+	"$reticleEnemyLeft"			"391 251 60 10"
+	"$reticleEnemyRight"		"451 251 60 10"
+
+	"$reticleTeammateCenter"	"121 121 270 270"
+	"$reticleTeammateTop"		"56 196 10 60"
+	"$reticleTeammateBottom"	"56 256 10 60"
+	"$reticleTeammateLeft"		"1 251 60 10"
+	"$reticleTeammateRight"		"61 251 60 10"
+}

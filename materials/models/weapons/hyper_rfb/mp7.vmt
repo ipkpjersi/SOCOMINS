@@ -1,0 +1,23 @@
+"VertexLitGeneric"
+{
+
+	$nocull 1
+
+     "$basetexture" "models\weapons\hyper_rfb\mp7"
+     "$bumpmap" "models\weapons\hyper_rfb\mp7-n"
+
+     "$envmap" "env_cubemap"
+     "$basemapalphaenvmapmask" 1
+     "$envmaptint" "[0.3 0.3 0.3]"
+     "$normalmapalphaenvmapmask" 1
+     "$envmapfresnel" "0.7"
+
+     "$phong" 1
+     "$phongtint"                   "[0.7 0.9 1]" 
+     "$phongboost" 12
+     "$phongfresnelranges" "[0.1 0.5 1.1]"
+     "$phongalbedotint" "1"
+     "$phongalbedoboost" "38"
+
+
+}

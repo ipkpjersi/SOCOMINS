@@ -1,0 +1,19 @@
+Vertexlitgeneric
+{
+	"$basetexture"			"models\weapons\l85a2\sa80_a2_diff"
+   	"$bumpmap"   			"models\weapons\l85a2\sa80_a2_bump"
+
+	"$nocull" "1"
+
+	// PHONG SHADING
+	"$phong"  			"1"
+	"$phongexponenttexture"		"models\weapons\l85a2\sa80_a2_exp"
+	"$phongboost" 			".5"
+	"$phongfresnelranges" 		"[2 4 6]"
+	"$phongtint" 			"[0.6 0.8 1]"
+	"$phongalbedotint" 		"1"	
+
+	"$envmap" 			"env_cubemap"
+	"$normalmapalphaenvmapmask" 	"1"
+	"$envmaptint"			"[0.1 0.1 0.1]"
+}

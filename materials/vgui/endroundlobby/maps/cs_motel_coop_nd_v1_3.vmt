@@ -1,0 +1,12 @@
+"UnlitGeneric"
+{
+	"$basetexture" "vgui/endroundlobby/maps/cs_motel_coop_nd_v1_3"
+	"$vertexcolor" 1
+	"$vertexalpha" 1
+	"$ignorez" 1
+	"$no_fullbright" "1"
+	"$nolod" "1"
+	"%keywords" "gameui"
+
+	"$SHADERSRGBREAD360" 1
+}

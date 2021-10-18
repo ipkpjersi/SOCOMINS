@@ -1,0 +1,27 @@
+"VertexLitGeneric"
+{
+	"$basetexture"				"models\weapons\mosin\weapon_rounds_dm"
+	"$bumpmap" 					"models\weapons\mosin\weapon_rounds_nm"
+	"$color" 					"[1.2 1.2 1]"
+	
+	"$phong" 					"1"
+	"$phongexponent"			"80"
+	"$phongboost" 				"0.8"	
+	"$phongfresnelranges"		"[1 5 3]"
+	"$phongalbedotint" 			"2"
+	"$phongtint" 				"[.7 .8 1]"
+	
+	"$normalmapalphaenvmapmask" "1"
+	"$envmap" 					"env_cubemap"
+	"$halflambert"				"1"
+	"$envmapfresnel" 	        "0"
+	"$envmapfresnelminmaxexp"   "[0 0 0]"
+	"$envmaptint" 				"[.15 .15 .15]"
+	"$envmapsaturation" 		"0"
+	
+	//$rimlight 				1
+	//$rimlightexponent       100
+	//$rimlightboost          .005
+      
+
+}

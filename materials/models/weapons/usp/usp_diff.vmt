@@ -1,0 +1,28 @@
+"Vertexlitgeneric"
+{
+	"$basetexture"  		"models\weapons\usp\usp_diff"
+	"$bumpmap"     			"models\weapons\usp\usp_bump"
+	"$phongexponenttexture" 	"models\weapons\usp\usp_gloss"
+
+	"$envmap" 			"env_cubemap"
+
+	"$nocull" 			"1"
+	"$selfillum"			"1"
+
+	"$normalmapalphaenvmapmask" 	"1"
+	"$normalmapalphaphongmask"    	"1"
+
+	"$envmaptint" 			"[0.02 0.02 0.02]"
+	"$envmapfresnel"		"1"
+	"$envmapFresnelMinMaxExp"	"[0 5 .4]"
+
+	"$phong"     			"1"
+	"$phongboost"   		"255"
+	"$phongalbedotint"		"1"
+	"$phongfresnelranges"       	"[0.5 0.9 1]"
+
+	"$rimlight" 			"1"
+	"$rimlightexponent" 		"70"	
+	"$rimlightboost"		"0.5"
+	"$rimmask" 			"1"
+}

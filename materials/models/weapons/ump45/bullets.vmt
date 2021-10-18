@@ -1,0 +1,26 @@
+"VertexLitGeneric"
+{
+
+	"$color"				"[1 1 1]"
+	"$basetexture"			"models\weapons\ump45\bullet_dm"
+	"$bumpmap"				"models\weapons\ump45\bullet_n"
+
+
+	$normalmapalphaenvmapmask 		"1"
+
+	$phongtint						"[0.9 0.77 0.75]"
+
+
+	"$phongexponent" 	"50"
+	$phong 							"1"
+	$PhongAlbedoTint 				"1"	
+	
+	$phongboost 					"1"
+	$phongfresnelranges				"[4 8 6]"
+	
+	$rimlight               1
+	$rimlightexponent       200
+	$rimlightboost          .03	
+	$rimmask 1
+
+}

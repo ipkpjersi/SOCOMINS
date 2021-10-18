@@ -1,0 +1,13 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "models\weapons\remmington_acr_e\Solids"
+	"$bumpmap" 	"models\weapons\remmington_acr_e\Solids_Normal"
+	"$envmap" "env_cubemap"
+	"$normalmapalphaenvmapmask" 1
+	"$halflambert" 	"1"
+	"$phong" "1"
+	"$phongexponent" "32"
+	"$phongboost" "1"	
+	"$phongfresnelranges"	"[1 0 -1]"
+	"$phongalbedotint" "1"
+}

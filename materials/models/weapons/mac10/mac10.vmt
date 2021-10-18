@@ -1,0 +1,19 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" 			"models\weapons\mac10\mac10_col"
+	"$bumpmap" 			"models\weapons\mac10\mac10_norm"
+	
+	
+    	$normalmapalphaenvmapmask 	"1"
+
+	$phongtint 			"[.6 .8 1]"
+
+	$envmap 			env_cubemap
+	$envmaptint 			"[.01 .01 .015]"
+
+	$phong 				"1"
+	
+	$phongexponent 			"50"
+	$phongboost 			"2"
+	$phongfresnelranges		"[.5 1 3]"
+}

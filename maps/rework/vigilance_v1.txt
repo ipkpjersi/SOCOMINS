@@ -1,0 +1,127 @@
+ "cpsetup.txt"
+{	
+	"theater_conditions"
+	{
+		"?nightmap"		"0"
+		"nightlighting"      	"0"
+		"navfile"   	"vigilance_v1"
+	}
+	
+	// supported modes:
+	// - Firefight
+	// - infiltrate
+	// - skirmish
+	
+
+	"firefight"
+	{
+		"controlpoint" 	"cap_a"
+		"controlpoint" 	"cap_b"
+		"controlpoint" 	"cap_c"
+		
+		"spawnzones"
+		{
+			"disablespawns" "1"
+			"0"  "spawnzone_1"
+		}
+	}
+
+	"skirmish"
+	{
+		"controlpoint"	"cap_a"
+		"controlpoint"	"cap_b"
+		"controlpoint"	"cap_c"
+		
+		"spawnzones"
+		{
+			"disablespawns" "1"
+			"0"  "spawnzone_1"
+		}
+	}
+	
+	"ambush"
+	{
+		"controlpoint"	"cap_a"
+		
+		"AttackingTeam"	"security"
+		
+		"spawnzones"
+		{
+			"disablespawns" "1"
+			"0"  "spawnzone_1"
+		}
+		
+		"entities"
+		{	
+			// Spawn Prop Caches
+
+			// Security Spawn
+
+			"obj_weapon_cache"
+			{
+				"origin"		"-1211 3411 -992"
+				"angles"		"0 0 0"
+				"teamnumber"	"2"
+				"TakeDamageBullets" "0"
+			}
+
+			// Insurgent Spawn
+			"obj_weapon_cache"
+			{
+				"origin"		"1093 -4095 -992"
+				"angles"		"0 0 0"
+				"teamnumber"	"3"
+				"TakeDamageBullets" "0"
+			}
+		}
+	}
+	
+	"infiltrate"
+	{
+		"controlpoint"		"terminalpoint_a"
+		"controlpoint"		"terminalpoint_b"
+		
+		"spawnzones"
+		{
+			"disablespawns" "1"
+			"0"  "spawnzone_neutral"
+		}
+		
+		"entities"
+		{	
+			// Terminal A		
+			"obj_terminal"
+			{
+				"origin"		"1246 1713 188"
+				"angles"		"0 10 0"
+				"targetname"	"terminal_a"
+				"teamnumber"	"2"
+				"ControlPoint"	"terminalpoint_a"
+				"TakeDamageBullets" "1"
+			}				
+			"point_controlpoint"
+			{
+				"origin"		"1330 1784 170"
+				"angles"		"66 99 50"
+				"targetname"	"terminalpoint_a"
+			}	
+			
+			// Terminal B
+			"obj_terminal"
+			{
+				"origin"		"-4268 1390 6"
+				"angles"		"0 -71 0"
+				"targetname"	"terminal_b"
+				"teamnumber"	"3"
+				"ControlPoint"	"terminalpoint_b"
+				"TakeDamageBullets" "1"
+			}				
+			"point_controlpoint"
+			{
+				"origin"		"-4390 1402 -2"
+				"angles"		"204 135 50"
+				"targetname"	"terminalpoint_b"
+			}	
+		}
+	}
+}

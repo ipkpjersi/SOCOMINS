@@ -1,0 +1,16 @@
+LightmappedGeneric
+{
+
+$baseTexture "decals\ins_blood\blood_02"
+
+$translucent 1
+
+$decal 1
+$decalscale "0.15"
+$decalScaleVariation "0.25"
+
+
+$modelmaterial "decals\ins_blood\mdl_blood_02"
+
+
+}

@@ -1,0 +1,26 @@
+"Vertexlitgeneric"
+{
+	"$basetexture"  		"models\weapons\upgrades\flashlight_col"
+	"$bumpmap"     			"models\weapons\upgrades\flashlight_nor"
+	$color "[0.8 0.8 0.8]"
+	"$envmap" 			"env_cubemap"
+
+	"$normalmapalphaenvmapmask" 	"1"
+	"$normalmapalphaphongmask"    	"1"
+	//"$envmaptint" 			"[1 1 1]"
+	//$envmaptint "[0.125 .125 .125]"
+	$envmaptint "[0.025 0.025 0.025]"
+	//$envmaptint "[0 0 0]"
+	//"$envmapfresnel" "3"
+	
+	$phong 1
+	$phongexponent 			"40"
+	//$phongexponenttexture "models\weapons\flashlight_tigg\flashlight_tigg_gloss"
+	$phongboost 			"1"
+	//$phongfresnelranges		"[.5 1 3]"
+	//"$phongalbedotint"		"1"
+	$phongalbedoboost           48
+	"$phongtint"         "[.7 .85 1]"
+//$phongtint "[1 1 1]"
+
+}

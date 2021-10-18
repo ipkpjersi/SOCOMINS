@@ -1,0 +1,16 @@
+"VertexLitGeneric"
+{
+	"$basetexture"			"models\weapons\scar45\body_d"
+	"$bumpmap"	 		"models\weapons\scar45\body_n"
+        "$color"			"[1 1 1]"
+
+	"$phong"                        "1"
+	"$phongalbedotint"              "1"
+	"$phongtint"                    "[1 1 1]"
+	"$halflambert" 			"1"
+	"$phongboost"                   ".75"
+	"$phongexponent"                "50"
+	"$phongfresnelranges"           "[.2 .4 .6]"
+	"$normalmapalphaenvmapmask" 	"1"
+
+}

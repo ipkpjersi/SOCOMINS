@@ -1,0 +1,21 @@
+"VertexLitGeneric"
+{
+	"$basetexture"			"models\weapons\mk47\bagmag_cloth_d"
+	"$bumpmap" 			"models\weapons\mk47\bagmag_cloth_n"
+	"$color"			"[1 1 1]"
+	
+	$normalmapalphaenvmapmask 	"1"
+
+	 $phongtint 			"[.85 .92 .85]"
+
+	$envmap 			env_cubemap
+	$envmaptint 			"[.001 .001 .001  ]"
+
+	$phong 				"1"
+	//$PhongAlbedoTint 		"0"	
+	//$BasemapLuminancePhongMask	"1"
+	
+	$phongexponent 			"25"
+	$phongboost 			".5     "
+	$phongfresnelranges		"[.25 0.5 1.5]"
+}

@@ -1,0 +1,9 @@
+"frostfire"
+{
+	material	overviews/frostfire_v6
+	pos_x		-945
+	pos_y		2236
+	scale		4.1
+	rotate		0
+	zoom		1
+}

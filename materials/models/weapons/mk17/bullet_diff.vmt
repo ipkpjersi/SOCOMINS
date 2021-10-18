@@ -1,0 +1,14 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" 		"models\weapons\mk17\bullet_diff"
+	"$nocull" "1"
+ 
+	"$phong" "1"
+	"$phongexponent" "34"
+	"$phongboost" "0.8"
+	"$phongfresnelranges" "[2 4 6]"
+	"$phongtint" "[0.6 0.8 1]"
+	"$phongalbedotint" "1"	
+				
+	"$envmapfresnel" "0.7"
+}

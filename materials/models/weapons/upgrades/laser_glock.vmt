@@ -1,0 +1,26 @@
+"Vertexlitgeneric"
+{
+	"$basetexture"  		"models\weapons\upgrades\laser_col"
+	"$bumpmap"     			"models\weapons\upgrades\laser_nor"
+	$color "[0.9 .9 .9]"
+	"$envmap" 			"env_cubemap"
+
+	"$normalmapalphaenvmapmask" 	"1"
+	"$normalmapalphaphongmask"    	"1"
+	//"$envmaptint" 			"[1 1 1]"
+	$envmaptint "[0.075 .075 .075]"
+	//$envmaptint "[0.025 0.025 0.025]"
+	//$envmaptint "[0 0 0]"
+	//"$envmapfresnel" "3"
+	
+	$phong 1
+	$phongexponent 			"18"
+	//$phongexponenttexture "models\weapons\laser_tigg\laser_tigg_gloss"
+	$phongboost 			"1"
+	//$phongfresnelranges		"[.5 1 3]"
+	//"$phongalbedotint"		"1"
+	$phongalbedoboost           48
+	"$phongtint"         "[.7 .85 1]"
+//$phongtint "[1 1 1]"
+
+}

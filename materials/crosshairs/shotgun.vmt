@@ -1,0 +1,35 @@
+"UnlitGeneric"
+{
+	"$basetexture"	"crosshairs/shotgun"
+	"$translucent"	"1"
+
+	"$reticleDiagonal"			"1"
+	"$reticleScaleFrac"			"1.0"
+	"$reticleExpandFrac"		"1.0"
+
+	"$reticleCenter"			"242 242 270 270"
+	"$reticleTop"				"30 120 70 80"
+	"$reticleBottom"			"100 200 70 80"
+	"$reticleLeft"				"30 200 70 80"
+	"$reticleRight"				"100 120 70 80"
+
+	"$reticleObstruct"			"40 40 20 20"
+
+	"$reticleEmptyCenter"		"242 242 270 270"
+	"$reticleEmptyTop"			"30 320 70 80"
+	"$reticleEmptyBottom"		"100 400 70 80"
+	"$reticleEmptyLeft"			"30 400 70 80"
+	"$reticleEmptyRight"		"100 320 70 80"
+
+	"$reticleEnemyCenter"		"242 242 270 270"
+	"$reticleEnemyTop"			"355 20 70 80"
+	"$reticleEnemyBottom"		"425 100 70 80"
+	"$reticleEnemyLeft"			"355 100 70 80"
+	"$reticleEnemyRight"		"425 20 70 80"
+
+	"$reticleTeammateCenter"	"242 242 270 270"
+	"$reticleTeammateTop"		"195 20 70 80"
+	"$reticleTeammateBottom"	"265 100 70 80"
+	"$reticleTeammateLeft"		"195 100 70 80"
+	"$reticleTeammateRight"		"265 20 70 80"
+}

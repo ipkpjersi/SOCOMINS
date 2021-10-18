@@ -1,0 +1,192 @@
+"#base" "default_coop.theater"
+
+"theater"
+{
+	"teams"
+	{
+		"security"
+		{
+			"squads"
+			{
+				"#Fireteam_Alpha"
+				{
+					"#Squad_Fireteam_Leader_Recon"			"template_recon_security_coop"
+					"#Squad_Fireteam_Specialist"			"template_specialist_security_coop"
+					"#Squad_Fireteam_Rifleman"				"template_rifleman_security_coop"
+					"#Squad_Fireteam_Breacher"				"template_breacher_security_coop"
+					"#Squad_Fireteam_Demolitions"			"template_demolitions_security_coop"
+					"#Squad_Fireteam_Designated_Marksman"	"template_designated_marksman_security_coop"
+					"#Squad_Fireteam_Support"				"template_support_security_coop"
+					"#Squad_Fireteam_Sniper"				"template_sniper_security_coop"
+				}
+			}
+		}
+		
+		"insurgents"
+		{
+			"squads"
+			{
+				"#Cell_Alpha"	// assault team #1
+				{
+					"#Squad_Cell_Leader_Specialist"		"template_coop_specialist"
+					"#Squad_Cell_Fighter"				"template_coop_fighter"
+					"#Squad_Cell_Fighter"				"template_coop_fighter"
+					"#Squad_Cell_MachineGunner"			"template_coop_machinegunner"
+					"#Squad_Cell_MachineGunner"			"template_coop_machinegunner"
+					"#Squad_Cell_Sapper"				"template_coop_sapper"
+					"#Squad_Cell_SharpShooter"			"template_coop_sharpshooter"
+				}
+				"#Cell_Bravo"	// assault team #2
+				{
+					"#Squad_Cell_Leader_Specialist"		"template_coop_specialist"
+					"#Squad_Cell_Fighter"				"template_coop_fighter"
+					"#Squad_Cell_Fighter"				"template_coop_fighter"
+					"#Squad_Cell_MachineGunner"			"template_coop_machinegunner"
+					"#Squad_Cell_Specialist"			"template_coop_specialist"
+					"#Squad_Cell_Fighter"				"template_coop_fighter"
+					"#Squad_Cell_Sapper"				"template_coop_sapper"
+					"#Squad_Cell_SharpShooter"			"template_coop_sharpshooter"
+				}
+				"#Cell_Charlie"	// support team
+				{
+					"#Squad_Cell_Leader_Specialist"		"template_coop_specialist"
+					"#Squad_Cell_Fighter"				"template_coop_fighter"
+					"#Squad_Cell_Fighter"				"template_coop_fighter"
+					"#Squad_Cell_MachineGunner"			"template_coop_machinegunner"
+					"#Squad_Cell_Specialist"			"template_coop_specialist"
+					"#Squad_Cell_Fighter"				"template_coop_fighter"
+					"#Squad_Cell_Sapper"				"template_coop_sapper"
+					"#Squad_Cell_SharpShooter"			"template_coop_sharpshooter"
+				}
+				"#Cell_Delta"	// heavy weapons team
+				{
+					"#Squad_Cell_Leader_Specialist"		"template_coop_specialist"
+					"#Squad_Cell_Fighter"				"template_coop_fighter"
+					"#Squad_Cell_Fighter"				"template_coop_fighter"
+					"#Squad_Cell_MachineGunner"			"template_coop_machinegunner"
+					"#Squad_Cell_Specialist"			"template_coop_specialist"
+					"#Squad_Cell_Fighter"				"template_coop_fighter"
+					"#Squad_Cell_Fighter"				"template_coop_fighter"
+					"#Squad_Cell_SharpShooter"			"template_coop_sharpshooter"
+				}
+				"#Cell_Echo"
+				{
+					"#Squad_Cell_Leader_Specialist"		"template_coop_specialist"
+					"#Squad_Cell_Fighter"				"template_coop_fighter"
+					"#Squad_Cell_Fighter"				"template_coop_fighter"
+					"#Squad_Cell_MachineGunner"			"template_coop_machinegunner"
+					"#Squad_Cell_Specialist"			"template_coop_specialist"
+					"#Squad_Cell_Fighter"				"template_coop_fighter"
+					"#Squad_Cell_Fighter"				"template_coop_fighter"
+					"#Squad_Cell_SharpShooter"			"template_coop_sharpshooter"
+				}
+				"#Cell_Foxtrot"
+				{
+					"#Squad_Cell_Leader_Specialist"		"template_coop_specialist"
+					"#Squad_Cell_Fighter"				"template_coop_fighter"
+					"#Squad_Cell_Fighter"				"template_coop_fighter"
+					"#Squad_Cell_MachineGunner"			"template_coop_machinegunner"
+					"#Squad_Cell_Specialist"			"template_coop_specialist"
+					"#Squad_Cell_Fighter"				"template_coop_fighter"
+					"#Squad_Cell_Fighter"				"template_coop_fighter"
+					"#Squad_Cell_SharpShooter"			"template_coop_sharpshooter"
+				}
+			}
+		}
+	}
+	
+	"weapons"
+	{
+		"weapon_m16a4"
+		{
+			"weapon_cost"				"1"
+			"team_access"				"security, insurgent"
+			"class_restricted"			"1"
+		}
+		
+		"weapon_mk18"
+		{
+			"weapon_cost"				"3"
+		}
+		
+		"weapon_mini14"
+		{
+			"weapon_cost"				"2"
+		}
+		
+		"weapon_mp5"
+		{
+			"weapon_cost"				"2"
+		}
+		
+		"weapon_ump45"
+		{
+			"weapon_cost"				"3"
+		}
+		
+		"weapon_m590"
+		{
+			"weapon_cost"				"1"
+		}
+		
+		"weapon_m249"
+		{
+			"weapon_cost"				"4"
+		}
+		
+		"weapon_m40a1"
+		{
+			"weapon_cost"				"1"
+		}
+		
+		"weapon_akm"
+		{
+			"weapon_cost"				"3"
+			"team_access"				"security, insurgent"
+			"class_restricted"			"1"
+		}
+		
+		"weapon_ak74"
+		{
+			"weapon_cost"				"2"
+			"team_access"				"security, insurgent"
+			"class_restricted"			"1"
+		}
+		
+		"weapon_sks"
+		{
+			"weapon_cost"				"2"
+		}
+		
+		"weapon_aks74u"
+		{
+			"weapon_cost"				"3"
+		}
+		
+		"weapon_toz"
+		{
+			"weapon_cost"				"1"
+		}
+		
+		"weapon_rpk"
+		{
+			"weapon_cost"				"4"
+		}
+		
+		"weapon_mosin"
+		{
+			"weapon_cost"				"1"
+		}
+	}
+	
+	"player_gear"
+	{
+		"?nightmap"
+		{
+			"sec_nightvision"
+			{
+				"gear_cost"				"0"
+			}
+		}
+	}
+}

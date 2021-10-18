@@ -1,0 +1,20 @@
+Vertexlitgeneric
+{
+	"$basetexture"	"models\weapons\remmington_acr_e\lower_diff"
+   	"$bumpmap"   "models\weapons\remmington_acr_e\lower_bump"
+
+	"$nocull" "1"
+ 
+	//"$phongexponenttexture" 	"models\weapons\remmington_acr_e\lower_exp"
+
+	"$phong" "1"
+	"$phongexponent" "34"
+	"$phongboost" "1.5"
+	"$phongfresnelranges" "[2 4 6]"
+	"$phongtint" "[0.6 0.8 1]"
+	"$phongalbedotint" "1"	
+				
+	"$envmap" "env_cubemap"
+	"$normalmapalphaenvmapmask"	"1"
+	"$envmaptint" "[0.2 0.2 0.2]"
+}

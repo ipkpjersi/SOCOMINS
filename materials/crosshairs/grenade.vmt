@@ -1,0 +1,12 @@
+"UnlitGeneric"
+{
+	"$basetexture"	"crosshairs/secondary"
+	"$translucent"	"1"
+
+	"$reticleScaleFrac"			"1.0"
+
+	"$reticleCenter"			"121 121 270 270"
+	"$reticleEmptyCenter"		"121 121 270 270"
+	"$reticleEnemyCenter"		"121 121 270 270"
+	"$reticleTeammateCenter"	"121 121 270 270"
+}

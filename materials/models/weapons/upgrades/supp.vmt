@@ -1,0 +1,25 @@
+"VertexLitGeneric"
+{
+
+	"$color"				"[1 1 1]"
+	"$basetexture"			"models\weapons\upgrades\supp_d"
+	"$bumpmap"				"models\weapons\upgrades\supp_n"
+	//"$phongexponenttexture"	"models\weapons\aks74u\rifle_s"
+
+	"$normalmapalphaenvmapmask" 	"1"
+
+	$phongtint						"[0.8 0.9 0.9]"
+
+	$envmap 						env_cubemap
+	$envmaptint 					"[.085 .085 .085  ]"
+	$phongexponent				 	"20"
+	$phong 							"1"
+	$PhongAlbedoTint 				"1"	
+	
+	$phongboost 					"0.3"
+	$phongfresnelranges				"[2 2 3]"
+	$rimlight               1
+	$rimlightexponent       200
+	$rimlightboost          .01	
+	$rimmask 1
+}

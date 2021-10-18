@@ -1,0 +1,19 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "models\weapons\upgrades\a_bipod_m40a1_dm"
+	"$bumpmap" "models\weapons\upgrades\a_bipod_m40a1_nm"
+
+	$phong                      	1
+	$phongboost                	0.2
+	$phongfresnelranges        	"[2 4 6]"
+	$phongtint 			"[0.6 0.8 1]"
+	$phongexponent			14
+	$phongalbedotint            	1
+	$phongalbedoboost           	48
+	$normalmapalphaphongmask    	1
+
+	// ENVIRONMENT REFLECTION
+	"$envmaptint" 			"[0.1 0.1 0.1]"
+     	"$normalmapalphaenvmapmask" 	1
+     	"$envmapfresnel" 		"0.7"
+}

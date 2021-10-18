@@ -1,0 +1,5 @@
+VertexLitGeneric
+{
+	$baseTexture "models\weapons\m72law\law_sight_gradient"
+	$translucent 1
+}

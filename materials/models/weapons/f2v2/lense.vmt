@@ -1,0 +1,23 @@
+"VertexLitGeneric"
+{
+	"$basetexture"	"models\weapons\optics\optic_lense"
+	//"$bumpmap"	"models\weapons\optics\eotech_lense_nm"
+	"$bumpmap"	"models\weapons\f2v2\lense_n"
+	"normalmapalphaenvmapmask"	"1"
+	"$color" 		"[.1 .1 .1]"
+	//"$model" 		"1"
+	"$translucent" 	"1"
+
+	"$phong"		"1"
+		"$phongexponent" 	"80"
+	$phong 							"1"
+	$PhongAlbedoTint 				"1"	
+	$phongboost 					"0.25"
+	$phongfresnelranges				"[3 6 9]"
+	"$phongtint"	"[.5 .6 .8]"
+	"$envmap" 	"env_cubemap"
+	"$envmapcontrast" 	"1"
+	//"$envmapsaturation" "1"
+	"$envmaptint" 	"[0.5 1 1.5]"
+	//"$additive"	"1"
+}

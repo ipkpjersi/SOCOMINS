@@ -1,0 +1,29 @@
+"VertexLitGeneric"
+{
+	"$basetexture" 			"models\weapons\ksg\KSG_diffuse"
+	"$bumpmap" 			"models\weapons\ksg\KSG_normal"
+	"$phongexponenttexture" 	"models\weapons\ksg\KSG_specs"
+
+	"$normalmapalphaenvmapmask" "1"
+	"$normalmapalphaphongmask"    "1"
+
+	"$envmap" "env_cubemap"
+	"$envmapcontrast" "15"
+	"$envmaptint" "[ 0.015 0.015 0.015 ]"
+
+	"$halflambert" "1"
+
+	"$phongalbedotint" "1"
+	"$phong"     "1"
+	"$phongboost"   "0.9"
+	"$phongalbedoboost" "30"
+	"$phongfresnelranges"   "[0.8 0.8 1]"
+
+	"$nocull" "1"
+
+	//"$rimlight" "1"
+	//"$rimlightexponent" "50"	
+	//"$rimlightboost" "0.31"
+	//"$rimmask" "1"
+
+}

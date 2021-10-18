@@ -1,0 +1,28 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models\weapons\g36\case_c_d"
+	"$bumpmap" "models\weapons\g36\case_c_n"
+	
+	"$color" 					"[1.2 1.2 1.2]"	
+	
+	// PHONG SHADING
+	"$phong"  				"1"
+	"$phongexponent" 		"60"
+	"$phongboost" 			".5"
+	"$phongfresnelranges" 	"[2 4 6]"
+	"$phongtint" 			"[0.6 0.8 1]"
+	"$phongalbedotint" 		"1"	
+	$normalmapalphaphongmask    1
+
+	// ENVIRONMENT REFLECTION
+	$envmap                     env_cubemap
+	$envmaptint                 "[.02 .02 .02]"
+	$normalmapalphaenvmapmask   1
+
+	// RIM LIGHT
+	$rimlight                   1
+	$rimlightexponent           24
+	$rimlightboost              0.5
+	$rimmask                    1
+
+}

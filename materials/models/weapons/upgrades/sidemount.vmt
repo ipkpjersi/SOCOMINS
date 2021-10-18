@@ -1,0 +1,17 @@
+"vertexlitgeneric"
+{
+	"$basetexture" "models\weapons\upgrades\Sidemount"
+	"$bumpmap"    "models\weapons\upgrades\Sidemount_n"
+	
+	"$halflambert"				"1"
+	"$envmapfresnel" 	        "0"
+	"$envmapfresnelminmaxexp"   "[0 0 0]"
+	"$envmaptint" 				"[.02 .02 .02]"
+	"$envmapsaturation" 		"0"
+	"$phong" 					"1"
+	"$phongexponent"			"55"
+	"$phongboost" 				".7"	
+	"$phongfresnelranges"		"[0.5 2 1.5]"
+	"$phongalbedotint" 			"0"
+	"$phongtint" 			"[1 .9 .7]"
+}

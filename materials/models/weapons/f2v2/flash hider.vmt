@@ -1,0 +1,27 @@
+"VertexLitGeneric"
+{
+
+	"$color"				"[1 1 1]"
+	"$basetexture"			"models\weapons\f2v2\flashhider_dm"
+	"$bumpmap"				"models\weapons\f2v2\flashhider_n"
+	//"$phongexponenttexture"	"models\weapons\f2v2\flashhider_s"
+
+	$normalmapalphaenvmapmask 		"1"
+
+	$phongtint						"[0.5 0.57 0.75]"
+
+	//$envmap 						env_cubemap
+	$envmaptint 					"[.085 .085 .085  ]"
+
+	"$phongexponent" 	"80"
+	$phong 							"1"
+	$PhongAlbedoTint 				"1"	
+	
+	$phongboost 					"0.5"
+	$phongfresnelranges				"[2 4 6]"
+	
+	$rimlight               1
+	$rimlightexponent       200
+	$rimlightboost          .03	
+	$rimmask 1
+}

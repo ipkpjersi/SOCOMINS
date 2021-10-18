@@ -1,0 +1,19 @@
+Vertexlitgeneric
+{
+	"$basetexture"			"models\weapons\G18\Light_Bluish_Gray"
+	"$selfillummask"	"models\weapons\G18\Tritium"
+	"$selfillum"	"1"
+	
+	$nocull	"1"
+	
+	"$color"			"[1 1 1]"
+
+	$phongtint 			"[.6 .8 1]"
+	$envmap 			env_cubemap
+	$envmaptint 			"[.0125 .0125 .0125]"
+	$phong 				"1"
+		
+	$phongexponent 			"25"
+	$phongboost 			"1"
+	$phongfresnelranges		"[.2 1 3]"
+}
