@@ -9433,11 +9433,11 @@
 
 			"allowed_weapons"
 			{
-				//"weapon"				"weapon_m16a4"
-				//"weapon"				"weapon_mk18"
-				//"weapon"				"weapon_m4a1"
-				//"weapon"				"weapon_m14"
-				//"weapon"				"weapon_ump45"
+				"weapon"				"weapon_m16a4"
+				"weapon"				"weapon_mk18"
+				"weapon"				"weapon_m4a1"
+				"weapon"				"weapon_m14"
+				"weapon"				"weapon_ump45"
 				
 			}
 			"viewmodel_attachments"
@@ -9477,23 +9477,23 @@
 			"allowed_weapons"
 			{
 				// security
-				//"weapon"				"weapon_mini14"
-				//"weapon"				"weapon_mp5"
-				//"weapon"				"weapon_m249"
+				"weapon"				"weapon_mini14"
+				"weapon"				"weapon_mp5"
+				"weapon"				"weapon_m249"
 
 				// insurgent
-				//"weapon"				"weapon_akm"
-				//"weapon"				"weapon_ak74"
-				//"weapon"				"weapon_aks74u"
-				//"weapon"				"weapon_m1a1"
-				//"weapon"				"weapon_sks"
-				//"weapon"				"weapon_mp40"
-				//"weapon"				"weapon_fal"
-				//"weapon"				"weapon_galil"
-				//"weapon"				"weapon_galil_sar"
-				//"weapon"				"weapon_l1a1"
-				//"weapon"				"weapon_rpk"
-				//"weapon"				"weapon_sterling"
+				"weapon"				"weapon_akm"
+				"weapon"				"weapon_ak74"
+				"weapon"				"weapon_aks74u"
+				"weapon"				"weapon_m1a1"
+				"weapon"				"weapon_sks"
+				"weapon"				"weapon_mp40"
+				"weapon"				"weapon_fal"
+				"weapon"				"weapon_galil"
+				"weapon"				"weapon_galil_sar"
+				"weapon"				"weapon_l1a1"
+				"weapon"				"weapon_rpk"
+				"weapon"				"weapon_sterling"
 			}
 			"viewmodel_attachments"
 			{
@@ -9605,12 +9605,12 @@
 			
 			"allowed_weapons"
 			{
-				//"weapon"					"weapon_m16a4"
-				//"weapon"					"weapon_m4a1"
-				//"weapon"					"weapon_mk18"
-				//"weapon"					"weapon_mini14"
-				//"weapon"					"weapon_galil"
-				//"weapon"					"weapon_galil_sar"
+				"weapon"					"weapon_m16a4"
+				"weapon"					"weapon_m4a1"
+				"weapon"					"weapon_mk18"
+				"weapon"					"weapon_mini14"
+				"weapon"					"weapon_galil"
+				"weapon"					"weapon_galil_sar"
 			}
 		}
 		
@@ -12979,16 +12979,16 @@
 
 			"allowed_weapons"
 			{
-				//"weapon"				"weapon_galil_sar"
-				//"weapon"				"weapon_m16a4"
+				"weapon"				"weapon_galil_sar"
+				"weapon"				"weapon_m16a4"
 				"weapon"				"weapon_m4a1"
-				//"weapon"				"weapon_m14"
-				//"weapon"				"weapon_mini14"
-				//"weapon"				"weapon_mp5"
-				//"weapon"				"weapon_ump45"
-				//"weapon"				"weapon_m40a1"
+				"weapon"				"weapon_m14"
+				"weapon"				"weapon_mini14"
+				"weapon"				"weapon_mp5"
+				"weapon"				"weapon_ump45"
+				"weapon"				"weapon_m40a1"
 				"weapon"				"weapon_l1a1"
-				//"weapon"				"weapon_galil"
+				"weapon"				"weapon_galil"
 				"weapon"				"weapon_mp5a4"
 				"weapon"				"weapon_mk18"
 				"weapon"				"weapon_kriss"
@@ -13050,7 +13050,7 @@
 
 			"allowed_weapons"
 			{
-				//"weapon"					"weapon_mk18"
+				"weapon"					"weapon_mk18"
 				"weapon"					"weapon_sa80"
 			}
 			"viewmodel_attachments"
@@ -13078,20 +13078,20 @@
 
 			"allowed_weapons"
 			{ 
-				//"weapon"					"weapon_m1a1" 
-				//"weapon"					"weapon_sks" 
-				//"weapon"					"weapon_mp40"
-				//"weapon"					"weapon_fal"
-				//"weapon"					"weapon_mosin"
-				//"weapon"					"weapon_akm"
-				//"weapon"					"weapon_ak74"
-				//"weapon"					"weapon_aks74u"
-				//"weapon"					"weapon_galil"
-				//"weapon"					"weapon_galil_sar"
-				  "weapon"					"weapon_aug3"
-				  "weapon"					"weapon_sig553"
-				//"weapon"					"weapon_f2000"
-				//"weapon"					"weapon_svd"
+				"weapon"					"weapon_m1a1" 
+				"weapon"					"weapon_sks" 
+				"weapon"					"weapon_mp40"
+				"weapon"					"weapon_fal"
+				"weapon"					"weapon_mosin"
+				"weapon"					"weapon_akm"
+				"weapon"					"weapon_ak74"
+				"weapon"					"weapon_aks74u"
+				"weapon"					"weapon_galil"
+				"weapon"					"weapon_galil_sar"
+				"weapon"					"weapon_aug3"
+				"weapon"					"weapon_sig553"
+				"weapon"					"weapon_f2000"
+				"weapon"					"weapon_svd"
 				"weapon"					"weapon_acr"
 			}
 			
@@ -13235,10 +13235,10 @@
 			
 			"allowed_weapons"
 			{
-				//"weapon"					"weapon_m590"
-				//"weapon"					"weapon_m249"
-				//"weapon"					"weapon_rpk"
-				//"weapon"					"weapon_toz"
+				"weapon"					"weapon_m590"
+				"weapon"					"weapon_m249"
+				"weapon"					"weapon_rpk"
+				"weapon"					"weapon_toz"
 			}
 			
 			"viewmodel_attachments"
@@ -13307,11 +13307,11 @@
 			
 			"allowed_weapons"
 			{
-				//"weapon"					"weapon_m16a4"
-				//"weapon"					"weapon_m4a1"
-				//"weapon"					"weapon_mk18"
-				//"weapon"					"weapon_m14"
-				//"weapon"					"weapon_ump45"
+				"weapon"					"weapon_m16a4"
+				"weapon"					"weapon_m4a1"
+				"weapon"					"weapon_mk18"
+				"weapon"					"weapon_m14"
+				"weapon"					"weapon_ump45"
 
 			}
 			"viewmodel_attachments"
@@ -13350,23 +13350,23 @@
 			"allowed_weapons"
 			{
 				// security
-				//"weapon"				"weapon_galil_sar"
-				//"weapon"				"weapon_mini14"
-				//"weapon"				"weapon_mp5"
-				//"weapon"				"weapon_m249"
-				//"weapon"				"weapon_l1a1"
+				"weapon"				"weapon_galil_sar"
+				"weapon"				"weapon_mini14"
+				"weapon"				"weapon_mp5"
+				"weapon"				"weapon_m249"
+				"weapon"				"weapon_l1a1"
 
 				// insurgent
-				//"weapon"				"weapon_akm"
-				//"weapon"				"weapon_ak74"
-				//"weapon"				"weapon_aks74u"
-				//"weapon"				"weapon_m1a1"
-				//"weapon"				"weapon_sks"
-				//"weapon"				"weapon_mp40"
-				//"weapon"				"weapon_fal"
-				//"weapon"				"weapon_galil"
-				//"weapon"				"weapon_rpk"
-				//"weapon"				"weapon_sterling"
+				"weapon"				"weapon_akm"
+				"weapon"				"weapon_ak74"
+				"weapon"				"weapon_aks74u"
+				"weapon"				"weapon_m1a1"
+				"weapon"				"weapon_sks"
+				"weapon"				"weapon_mp40"
+				"weapon"				"weapon_fal"
+				"weapon"				"weapon_galil"
+				"weapon"				"weapon_rpk"
+				"weapon"				"weapon_sterling"
 			}
 			"viewmodel_attachments"
 			{
@@ -13399,8 +13399,8 @@
 			
 			"allowed_weapons"
 			{
-				//"weapon"					"weapon_m590"
-				//"weapon"					"weapon_m40a1"
+				"weapon"					"weapon_m590"
+				"weapon"					"weapon_m40a1"
 			}
 			"viewmodel_attachments"
 			{
@@ -13418,8 +13418,8 @@
 			
 			"allowed_weapons"
 			{
-				//"weapon"					"weapon_toz"
-				//"weapon"					"weapon_mosin"
+				"weapon"					"weapon_toz"
+				"weapon"					"weapon_mosin"
 			}
 			"viewmodel_attachments"
 			{
@@ -13437,10 +13437,10 @@
 			
 			"allowed_weapons"
 			{
-				//"weapon"					"weapon_m9"
-				//"weapon"					"weapon_makarov"
-				//"weapon"					"weapon_m1911"
-				//"weapon"					"weapon_m45"
+				"weapon"					"weapon_m9"
+				"weapon"					"weapon_makarov"
+				"weapon"					"weapon_m1911"
+				"weapon"					"weapon_m45"
 			}
 			"viewmodel_attachments"
 			{
